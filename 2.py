@@ -1,0 +1,1 @@
+print("2. dosyamizi lokal olarak urettik")
